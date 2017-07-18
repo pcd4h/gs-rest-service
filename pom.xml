@@ -5,13 +5,14 @@
 
     <groupId>hello</groupId>
     <artifactId>hello</artifactId>
-    <version>0.1.0</version>
+    <version>1.0</version>
     <packaging>war</packaging>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.4.RELEASE</version>
+        <!-- <version>1.5.4.RELEASE</version> -->
+        <version>1.3.3.RELEASE</version>
     </parent>
 
     <properties>
